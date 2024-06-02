@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Fatih Han Ozkan</h1>
-<h3 align="center">Passionate Management Information Systems Student 💻 Driven to Excel in MIS and Become a Skilled Professional in Streamlining Business Processes 📈</h3>
+<h3 align="center">Passionate Management Information Systems Student </h3>
 
 - 🔭 I’m currently working on **Data Science**
 
