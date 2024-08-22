@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Fatih Han Ozkan</h1>
 <h3 align="center">Passionate Data Scientist and Analyst</h3>
 
-- 🔭 I’m currently working on **Data Science and Time Series Analysis**
+- 🔭 I’m currently creating project on ** Data Analyst Data Science and Time Series Analysis**
 
 - 🌱 I’m currently learning **Scikit-Learn for Machine Learning**
 
